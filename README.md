@@ -1,3 +1,4 @@
+@ -1,113 +0,0 @@
 🔐 Laboratorio de Criptografía Aplicada con OpenSSL y WampServer
 
 📝 1. Introducción y Arquitectura del Proyecto
